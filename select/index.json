@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おどる ひかり",
+  "base_artist": "Cody・Lee(李)",
+  "createdAt": "2026-02-28T14:48:10.128934Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おどる ひかり",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/pl_01_おどる_ひかり_Cody・Lee(李).txt"
+    }
+  ]
+}
